@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PyJWT
 
 [![travis-status-image]][travis]
@@ -381,3 +382,7 @@ private_key = cert_obj.private_key()
 [jwt-spec]: https://tools.ietf.org/html/draft-ietf-oauth-json-web-token-32
 [jwt-spec-reg-claims]: http://self-issued.info/docs/draft-jones-json-web-token-01.html#ReservedClaimName
 [progrium]: https://github.com/progrium
+=======
+# WebToken-JSON
+Python implementation of Web Token draft 32 in JSON
+>>>>>>> 4ab4f20625f2940f29e66d94268035666eade09f
